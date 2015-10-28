@@ -60,14 +60,7 @@ To upload the plugin through WordPress, instead of FTP:
 Be the first to ask!
 
 ## Screenshots ##
-###1. Dragcheck rows on Admin Tables
-###
-[missing image]
-
-###2. Add a custom style to see your selection more easily
-###
-[missing image]
-
+###1. Dragcheck rows on Admin Tables](https://raw.githubusercontent.com/X-Raym/dragcheck-admin-rows/master/assets/screenshot-1.gif)
 
 ## Changelog ##
 ### 1.0 (2015-10-28) ###
