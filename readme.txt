@@ -53,7 +53,6 @@ Be the first to ask!
 
 == Screenshots ==
 1. Dragcheck rows on Admin Tables
-2. Add a custom style to see your selection more easily
 
 == Changelog ==
 = 1.0 (2015-10-28) =
