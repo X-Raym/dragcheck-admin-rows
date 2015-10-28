@@ -23,14 +23,14 @@ A simple plugin to add few enhancements when checking a row on default Admin Tab
 - Add a custom class to checked row, so that customization of their look is possible.
 
 Here are two demo styles that you can place in your custom admin CSS stylesheet (created with another plugin of your choice):
-`
-.row-checked {
-    background-color: #BCFFBC!important;
-}
-.row-checked .check-column {
-    background-color: #01D200!important;
-}
-`
+
+    .row-checked {
+        background-color: #BCFFBC!important;
+    }
+    .row-checked .check-column {
+        background-color: #01D200!important;
+    }
+
 
 It uses dragcheck jquery plugin by aleximplode
 [dragcheck on GitHub](https://github.com/aleximplode/dragcheck)
