@@ -14,6 +14,8 @@
 **License:** GPL2
   
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
+
+**Plugin URl:** https://wordpress.org/plugins/dragcheck-admin-rows/
   
 
 A simple plugin to add few enhancements when checking a row on default Admin Tables, such as Users, Plugins or Posts lists.
